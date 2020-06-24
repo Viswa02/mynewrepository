@@ -1,3 +1,1 @@
-Hi guys I am Viswanathan.
-
-This change is done in my-new-branch
+This is master branch.
